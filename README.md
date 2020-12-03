@@ -2,7 +2,7 @@
 
 Deep Learning is a subfield of machine learning which tries to mimic the human neural network in the form of artificial neural network.
 
-This repo contains deep learning notebooks they are serve as reference. The deep learning library used in this repo is Pytorch & Tensorflow.
+This repo contains deep learning notebooks they are serve as reference. The deep learning libraries used in this repo is Pytorch & Tensorflow.
 
 ## Pytorch 
 
