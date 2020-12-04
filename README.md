@@ -11,3 +11,8 @@ The folder contain pytorch codes.
 * [Feed Forward Nueral Network](https://github.com/EteimZ/Deep_Learning-Notebooks/blob/main/Pytorch/feed_forward_nn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EteimZ/Deep_Learning-Notebooks/blob/main/Pytorch/feed_forward_nn.ipynb)
 
   This notebook demonstrates a simple [feed forward nueral network](https://en.wikipedia.org/wiki/Feedforward_neural_network) on the MNIST dataset.
+  
+* [Simple Linear Regression](https://github.com/EteimZ/Deep_Learning-Notebooks/blob/main/Pytorch/Simple_Linear_Regression_with_Pytorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EteimZ/Deep_Learning-Notebooks/blob/main/Pytorch/Simple_Linear_Regression_with_Pytorch.ipynb)
+
+  This notebook is an implementation of [Simple Linear Regression](https://en.wikipedia.org/wiki/Simple_linear_regression) with Pytorch. 
+  
