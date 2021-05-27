@@ -20,6 +20,12 @@ This folder contains pytorch codes.
 
   [ConvNet](https://en.wikipedia.org/wiki/Convolutional_neural_network) on the CIFAR10 dataset.
   
+* [Transfer Learning](https://github.com/EteimZ/Deep_Learning-Notebooks/blob/main/Pytorch/transfer-learning-with-pytorch.ipynb) [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/eteims/transfer-learning-with-pytorch)
+  
+  Transfer Learning with Pytoch.
+
+
+  
  ## TensorFlow
  
  This folder contains Tensorflow/Keras codes.
@@ -30,4 +36,3 @@ This folder contains pytorch codes.
 * [NLP Basics](https://github.com/EteimZ/Deep_Learning-Notebooks/blob/main/TensorFlow/NLP_Basic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EteimZ/Deep_Learning-Notebooks/blob/main/TensorFlow/NLP_Basic.ipynb )
     
     This notebook demonstrates Basic NLP operation like Tokenization and Sequencing. 
-
