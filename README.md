@@ -36,3 +36,8 @@ This folder contains pytorch codes.
 * [NLP Basics](https://github.com/EteimZ/Deep_Learning-Notebooks/blob/main/TensorFlow/NLP_Basic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EteimZ/Deep_Learning-Notebooks/blob/main/TensorFlow/NLP_Basic.ipynb )
     
     This notebook demonstrates Basic NLP operation like Tokenization and Sequencing. 
+
+
+* [Basic training loop](https://github.com/EteimZ/Deep_Learning-Notebooks/blob/main/TensorFlow/training_loop_in_TS.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EteimZ/Deep_Learning-Notebooks/blob/main/TensorFlow/training_loop_in_TS.ipynb)
+    
+    This notebook demonstrates building a training loop from scratch in tensorflow using a cubic model. 
